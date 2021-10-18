@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.amit</groupId>
-	<artifactId>Springboot_aws_ec2</artifactId>
+	<artifactId>docker-jenkins-integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>docker-jenkins-integration</name>
 	<description>docker jenkins integration</description>
